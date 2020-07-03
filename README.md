@@ -11,6 +11,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jul
     > Time: O(log(n)) |
     > Space: O(1)
 
+* Day 2: [Binary Tree Level Order Traversal II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3378/)
+
+    > Recursive Level Order | 
+    > Time: O(n) |
+    > Space: O(n) [Recursive Stack]
+
 
 ## Week 2: July 8th–July 14th
 
