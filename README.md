@@ -17,7 +17,7 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jul
     > Time: O(n) |
     > Space: O(n) [Recursive Stack]
 
-* Day 2: [Prison Cells After N Days](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/)
+* Day 3: [Prison Cells After N Days](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3379/)
 
     > Hashing | 
     > Time: O(n) |
