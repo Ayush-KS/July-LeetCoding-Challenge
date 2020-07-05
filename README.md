@@ -23,6 +23,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jul
     > Time: O(n) |
     > Space: O(n)
 
+* Day 4: [Ugly Number II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3380/)
+
+    > Dynamic Programming | 
+    > Time: O(n) |
+    > Space: O(n)
+
 ## Week 2: July 8th–July 14th
 
 
