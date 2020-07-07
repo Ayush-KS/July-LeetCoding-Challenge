@@ -35,6 +35,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jul
     > Time: O(1) |
     > Space: O(1)
 
+* Day 6: [Plus One](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3382/)
+
+    > Array Traversal | 
+    > Time: O(n) |
+    > Space: O(1)
+
 ## Week 2: July 8th–July 14th
 
 
