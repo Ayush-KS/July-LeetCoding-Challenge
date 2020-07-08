@@ -41,6 +41,12 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jul
     > Time: O(n) |
     > Space: O(1)
 
+* Day 7: [Island Perimeter](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3383/)
+
+    > Array Traversal | 
+    > Time: O(n^2) |
+    > Space: O(1)
+
 ## Week 2: July 8th–July 14th
 
 
