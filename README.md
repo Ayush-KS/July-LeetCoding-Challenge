@@ -47,7 +47,14 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jul
     > Time: O(n^2) |
     > Space: O(1)
 
+
 ## Week 2: July 8th–July 14th
+
+* Day 8: [3Sum](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)
+
+    > Hashing | 
+    > Time: O(n^2) |
+    > Space: O(n)
 
 
 ## Week 3: July 15th–July 21st
