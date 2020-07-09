@@ -2,8 +2,14 @@
 
 This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/) consisting of 30 daily problems over the month of July. A problem is added each day, and we have 24 hours to make a valid submission. I will be uploading my solutions in this repository after the deadline to make a valid submission for the given problem has passed.
 
+This month, to do things a little differently than last month, I have decided to weekly change the language I code in. 
 
-## Week 1: July 1st–July 7th
+Week One: C++
+
+Week Two: Java
+
+
+## Week 1: July 1st–July 7th [C++]
 
 * Day 1: [Arranging Coins](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/544/week-1-july-1st-july-7th/3377/)
 
@@ -48,7 +54,7 @@ This is a challenge by [LeetCode](https://leetcode.com/explore/featured/card/jul
     > Space: O(1)
 
 
-## Week 2: July 8th–July 14th
+## Week 2: July 8th–July 14th [Java]
 
 * Day 8: [3Sum](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3384/)
 
