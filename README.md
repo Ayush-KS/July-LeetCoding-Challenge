@@ -68,12 +68,17 @@ Week Two: Java
     > Time: O(n) |
     > Space: O(n)
 
-* Day 10: [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3385/)
+* Day 10: [Flatten a Multilevel Doubly Linked List](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3386/)
 
     > Traversal | 
     > Time: O(n) |
     > Space: O(n)
 
+* Day 11: [Subsets](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3387/)
+
+    > Bitmasking | 
+    > Time: O(n^2) |
+    > Space: O(n^2)
 
 ## Week 3: July 15th–July 21st
 
