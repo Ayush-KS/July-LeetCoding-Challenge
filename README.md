@@ -80,6 +80,12 @@ Week Two: Java
     > Time: O(n^2) |
     > Space: O(n^2)
 
+* Day 12: [Reverse Bits](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3388/)
+
+    > Bitmasking | 
+    > Time: O(1) |
+    > Space: O(1)
+
 ## Week 3: July 15th–July 21st
 
 
