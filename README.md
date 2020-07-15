@@ -92,6 +92,12 @@ Week Two: Java
     > Time: O(n) |
     > Space: O(n)
 
+* Day 14: [Angle Between Hands of a Clock](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/545/week-2-july-8th-july-14th/3390/)
+
+    > Math | 
+    > Time: O(1) |
+    > Space: O(1)
+
 ## Week 3: July 15th–July 21st
 
 
