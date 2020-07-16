@@ -8,6 +8,8 @@ Week One: C++
 
 Week Two: Java
 
+Week Three: Python
+
 
 ## Week 1: July 1st–July 7th [C++]
 
@@ -98,8 +100,14 @@ Week Two: Java
     > Time: O(1) |
     > Space: O(1)
 
-## Week 3: July 15th–July 21st
 
+## Week 3: July 15th–July 21st [Python]
+
+* Day 15: [Reverse Words in a String](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3391/)
+
+    > Tokenizing String | 
+    > Time: O(n) |
+    > Space: O(n)
 
 ## Week 4: July 22nd–July 28th
 
