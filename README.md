@@ -109,6 +109,12 @@ Week Three: Python
     > Time: O(n) |
     > Space: O(n)
 
+* Day 16: [Pow(x, n)](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3392/)
+
+    > Math | 
+    > Time: O(log(n)) |
+    > Space: O(log(n))
+
 ## Week 4: July 22nd–July 28th
 
 
