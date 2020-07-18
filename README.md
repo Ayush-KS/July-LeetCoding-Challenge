@@ -115,6 +115,12 @@ Week Three: Python
     > Time: O(log(n)) |
     > Space: O(log(n))
 
+* Day 17: [Top K Frequent Elements](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3393/)
+
+    > Hashing | 
+    > Time: O(n*log(n)) |
+    > Space: O(n)
+
 ## Week 4: July 22nd–July 28th
 
 
