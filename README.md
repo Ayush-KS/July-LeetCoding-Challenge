@@ -121,6 +121,12 @@ Week Three: Python
     > Time: O(n*log(n)) |
     > Space: O(n)
 
+* Day 18: [Course Schedule II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3394/)
+
+    > Topological Sort | 
+    > Time: O(V + E) |
+    > Space: O(V + E)
+
 ## Week 4: July 22nd–July 28th
 
 
