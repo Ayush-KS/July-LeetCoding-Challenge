@@ -133,6 +133,12 @@ Week Three: Python
     > Time: O(n) |
     > Space: O(n)
 
+* Day 20: [Remove Linked List Elements](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3396/)
+
+    > Recursive Traversal | 
+    > Time: O(n) |
+    > Space: O(n) [Recursive Stack]
+
 ## Week 4: July 22nd–July 28th
 
 
