@@ -126,6 +126,12 @@ Week Three: Python
     > Topological Sort | 
     > Time: O(V + E) |
     > Space: O(V + E)
+    
+* Day 19: [Add Binary](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3395/)
+
+    > Implementation | 
+    > Time: O(n) |
+    > Space: O(n)
 
 ## Week 4: July 22nd–July 28th
 
