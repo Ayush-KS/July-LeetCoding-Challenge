@@ -139,6 +139,12 @@ Week Three: Python
     > Time: O(n) |
     > Space: O(n) [Recursive Stack]
 
+* Day 21: [Word Search](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/546/week-3-july-15th-july-21st/3397/)
+
+    > DFS + Backtracking | 
+    > Time: O((n^2)*m) |
+    > Space: O((n^2)*m)
+
 ## Week 4: July 22nd–July 28th
 
 
