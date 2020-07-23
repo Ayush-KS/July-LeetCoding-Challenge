@@ -10,6 +10,8 @@ Week Two: Java
 
 Week Three: Python
 
+Week Four: Javascript
+
 
 ## Week 1: July 1st–July 7th [C++]
 
@@ -144,8 +146,15 @@ Week Three: Python
     > DFS + Backtracking | 
     > Time: O((n^2)*m) |
     > Space: O((n^2)*m)
+    
 
-## Week 4: July 22nd–July 28th
+## Week 4: July 22nd–July 28th [Javascript]
+
+* Day 22: [Binary Tree Zigzag Level Order Traversal](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3398/)
+
+    > BFS | 
+    > Time: O(n) |
+    > Space: O(n)
 
 
 ## Week 5: July 29th-July 31st
