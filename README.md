@@ -156,5 +156,10 @@ Week Four: Javascript
     > Time: O(n) |
     > Space: O(n)
 
+* Day 23: [Single Number III](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3399/)
+
+    > Bit Manipulation | 
+    > Time: O(n) |
+    > Space: O(1)
 
 ## Week 5: July 29th-July 31st
