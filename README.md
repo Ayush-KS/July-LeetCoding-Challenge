@@ -162,10 +162,16 @@ Week Four: Javascript
     > Time: O(n) |
     > Space: O(1)
 
-* Day 23: [All Paths From Source to Target](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/)
+* Day 24: [All Paths From Source to Target](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3400/)
 
     > DFS | 
     > Time: O(n) |
     > Space: O(n)
+
+* Day 25: [Find Minimum in Rotated Sorted Array II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3401/)
+
+    > Binary Search | 
+    > Time: O(log(n)) |
+    > Space: O(1)
 
 ## Week 5: July 29th-July 31st
