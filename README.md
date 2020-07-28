@@ -180,4 +180,10 @@ Week Four: Javascript
     > Time: O(1) |
     > Space: O(1)
 
+* Day 27: [Construct Binary Tree from Inorder and Postorder Traversal](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3403/)
+
+    > Tree Traversal | 
+    > Time: O(n^2) |
+    > Space: O(n)
+
 ## Week 5: July 29th-July 31st
