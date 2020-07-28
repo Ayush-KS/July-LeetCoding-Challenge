@@ -174,4 +174,10 @@ Week Four: Javascript
     > Time: O(log(n)) |
     > Space: O(1)
 
+* Day 26: [Add Digits](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3402/)
+
+    > Math | 
+    > Time: O(1) |
+    > Space: O(1)
+
 ## Week 5: July 29th-July 31st
