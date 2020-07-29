@@ -12,6 +12,8 @@ Week Three: Python
 
 Week Four: Javascript
 
+Week Five: C
+
 
 ## Week 1: July 1st–July 7th [C++]
 
@@ -184,6 +186,12 @@ Week Four: Javascript
 
     > Tree Traversal | 
     > Time: O(n^2) |
+    > Space: O(n)
+
+* Day 28: [Task Scheduler](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/547/week-4-july-22nd-july-28th/3404/)
+
+    > Greedy | 
+    > Time: O(n) |
     > Space: O(n)
 
 ## Week 5: July 29th-July 31st
