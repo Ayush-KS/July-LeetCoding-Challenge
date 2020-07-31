@@ -12,7 +12,7 @@ Week Three: Python
 
 Week Four: Javascript
 
-Week Five: C
+Week Five: C and C++ (Day 30 required DP + DFS on Tries so I had to switch to C++ for ease of implementation.)
 
 
 ## Week 1: July 1st–July 7th [C++]
@@ -194,4 +194,11 @@ Week Five: C
     > Time: O(n) |
     > Space: O(n)
 
-## Week 5: July 29th-July 31st
+
+## Week 5: July 29th-July 31st [C and C++]
+
+* Day 29: [Best Time to Buy and Sell Stock with Cooldown](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3405/) [C]
+
+    > Dynamic Programming | 
+    > Time: O(n) |
+    > Space: O(1)
