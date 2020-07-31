@@ -202,3 +202,9 @@ Week Five: C and C++ (Day 30 required DP + DFS on Tries so I had to switch to C+
     > Dynamic Programming | 
     > Time: O(n) |
     > Space: O(1)
+
+* Day 30: [Word Break II](https://leetcode.com/explore/featured/card/july-leetcoding-challenge/548/week-5-july-29th-july-31st/3406/) [C]
+
+    > DP + DFS on Tries | 
+    > Time: O(n^2) |
+    > Space: O(n^2)
